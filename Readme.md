@@ -1,7 +1,6 @@
 Todo List
 
-What to learn list
-
+Important technologies to learn in 2019
 1. Kubernetes
 2. Continuous Integration
 3. Python
