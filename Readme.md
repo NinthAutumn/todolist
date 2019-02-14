@@ -1,4 +1,4 @@
-#Todo List
+ # Todo List
 
 **Important technologies to learn in 2019 (ul list)**
 1. Kubernetes
