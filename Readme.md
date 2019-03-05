@@ -14,3 +14,4 @@
 11. AWS Lambda
 12. serverless architecture
 13. Multi-Docker
+14. web assembly
